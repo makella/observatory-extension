@@ -1,6 +1,6 @@
 # Glossary
 
-A list of boundary ids and measure_names for Data Observatory functions.
+A list of boundary ids and measure_names for Data Observatory functions. For US based boundaries, the Shoreline Clipped version provides a high-quality shoreline clipping for mapping uses. 
 
 ## Boundary IDs
 
