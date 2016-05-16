@@ -4,19 +4,28 @@ A list of boundary ids and measure_names for Data Observatory functions.
 
 ## Boundary IDs
 
-Boundary name | Boundary ID
---------------------- | ---
-US Census Blocks | us.census.tiger.block
-US Census Block Groups | us.census.tiger.block_group
-US Census Tracts | us.census.tiger.census_tract
-US Census Zip Code Tabulation Areas | us.census.tiger.zcta5
-US Census Public Use Microdata Areas | us.census.tiger.puma
-US States | us.census.tiger.state
-US County | us.census.tiger.county
-US Congressional Districts | us.census.tiger.congressional_district
-Elementary School District | us.census.tiger.school_district_elementary
-Secondary School District | us.census.tiger.school_district_secondary
-Unified School District | us.census.tiger.school_district_unified
+Boundary name | Boundary ID | Shoreline Clipped Boundary ID
+--------------------- | --------------------- | ---
+US Secondary School District  |  us.census.tiger.school_district_secondary  |  us.census.tiger.school_district_secondary_clipped
+US Incorporated Places  |  us.census.tiger.place  |  us.census.tiger.place_clipped
+US Census Zip Code Tabulation Areas  |  us.census.tiger.zcta5  |  us.census.tiger.zcta5_clipped
+US Elementary School District  |  us.census.tiger.school_district_elementary  |  us.census.tiger.school_district_elementary_clipped
+US Unified School District  |  us.census.tiger.school_district_unified  |  us.census.tiger.school_district_unified_clipped
+US Census Blocks  |  us.census.tiger.block  |  us.census.tiger.block_clipped
+US Census Tracts  |  us.census.tiger.census_tract  |  us.census.tiger.census_tract_clipped
+US Census Public Use Microdata Areas  |  us.census.tiger.puma
+US County  |  us.census.tiger.county  |  us.census.tiger.county_clipped
+US Census Block Groups  |  us.census.tiger.block_group  |  us.census.tiger.block_group_clipped
+US Congressional Districts  |  us.census.tiger.congressional_district  |  us.census.tiger.congressional_district_clipped
+US Census Public Use Microdata Areas  |  us.census.tiger.puma_clipped
+US States  |  us.census.tiger.state  |  us.census.tiger.state_clipped
+ES Sección Censal  |  es.ine.geom  |
+Regions (First-level Administrative)  |  whosonfirst.wof_region_geom  |
+Continents  |  whosonfirst.wof_continent_geom  |
+Countries  |  whosonfirst.wof_country_geom  |
+Marine Areas  |  whosonfirst.wof_marinearea_geom  |
+Disputed Areas  |  whosonfirst.wof_disputed_geom  |
+
 
 ## OBS_GetUSCensusMeasure Names Table
 
