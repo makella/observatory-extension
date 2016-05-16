@@ -33,7 +33,6 @@ This list contains human readable names accepted in the ```OBS_GetUSCensusMeasur
 
 Measure name   |  Measure description
 --- | ---
-?column?,
 Male Population   |   The number of people within each geography who are male.
 Female Population   |   The number of people within each geography who are female.
 Median Age   |   The median age of all people in a given geographic area.
