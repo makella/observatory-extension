@@ -31,8 +31,8 @@ Disputed Areas  |  whosonfirst.wof_disputed_geom  |
 
 This list contains human readable names accepted in the ```OBS_GetUSCensusMeasure``` function. For the more comprehensive list of columns available to the ```OBS_GetMeasure``` function, see the [Data Observatory Catalog](https://cartodb.github.io/bigmetadata/observatory.pdf).
 
-Measure name   |  Measure description
------------------------- | ---
+Measure name             |  Measure description
+------------------------ | --------------------
 Male Population   |   The number of people within each geography who are male.
 Female Population   |   The number of people within each geography who are female.
 Median Age   |   The median age of all people in a given geographic area.
