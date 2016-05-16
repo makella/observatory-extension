@@ -32,7 +32,7 @@ Disputed Areas  |  whosonfirst.wof_disputed_geom  |
 This list contains human readable names accepted in the ```OBS_GetUSCensusMeasure``` function. For the more comprehensive list of columns available to the ```OBS_GetMeasure``` function, see the [Data Observatory Catalog](https://cartodb.github.io/bigmetadata/observatory.pdf).
 
 Measure name   |  Measure description
---- | ---
+------------------------ | ---
 Male Population   |   The number of people within each geography who are male.
 Female Population   |   The number of people within each geography who are female.
 Median Age   |   The median age of all people in a given geographic area.
@@ -109,8 +109,6 @@ Households with income of $125,000 To $149,999   |   The number of households in
 Households with income of $150,000 To $199,999   |   The number of households in a geographic area whose annual income was between $150,000 and $1999,999.
 Households with income of $200,000 Or More   |   The number of households in a geographic area whose annual income was more than $200,000.
 Median Household Income in the past 12 Months   |   Within a geographic area, the median income received by every household on a regular basis before payments for personal income taxes, social security, union dues, medicare deductions, etc.  It includes income received from wages, salary, commissions, bonuses, and tips; self-employment income from own nonfarm or farm businesses, including proprietorships and partnerships; interest, dividends, net rental income, royalty income, or income from estates and trusts; Social Security or Railroad Retirement income; Supplemental Security Income (SSI); any cash public assistance or welfare payments from the state or local welfare office; retirement, survivor, or disability benefits; and any other sources of income received regularly such as Veterans' (VA) payments, unemployment and/or worker's compensation, child support, and alimony.
-Gini Index   |   
-Per Capita Income in the past 12 Months   |   
 Population age 16 and over   |   The number of people in each geography who are age 16 or over.
 Population in Labor Force   |   The number of people in each geography who are either in the civilian labor force or are members of the U.S. Armed Forces (people on active duty with the United States Army, Air Force, Navy, Marine Corps, or Coast Guard).
 Population in Civilian Labor Force   |   The number of civilians 16 years and over in each geography who can be classified as either employed or unemployed below.
@@ -124,7 +122,5 @@ Vacant Housing Units for Rent   |   The count of vacant housing units in a geogr
 Vacant Housing Units for Sale   |   The count of vacant housing units in a geographic area that are for sale. A housing unit is vacant if no one is living in it at the time of enumeration, unless its occupants are only temporarily absent. Units temporarily occupied at the time of enumeration entirely by people who have a usual residence elsewhere are also classified as vacant.
 Median Rent   |   The median contract rent within a geographic area. The contract rent is the monthly rent agreed to or contracted for, regardless of any furnishings, utilities, fees, meals, or services that may be included. For vacant units, it is the monthly rent asked for the rental unit at the time of interview.
 Percent of Household Income Spent on Rent   |   Within a geographic area, the median percentage of household income which was spent on gross rent.  Gross rent is the amount of the contract rent plus the estimated average monthly cost of utilities (electricity, gas, water, sewer etc.) and fuels (oil, coal, wood, etc.) if these are paid by the renter.  Household income is the sum of the income of all people 15 years and older living in the household.
-Owner-occupied Housing Units   |   
 Owner-occupied Housing Units valued at $1,000,000 or more.   |   The count of owner occupied housing units in a geographic area that are valued at $1,000,000 or more.  Value is the respondent's estimate of how much the property (house and lot, mobile home and lot, or condominium unit) would sell for if it were for sale.
 Owner-occupied Housing Units with a Mortgage   |   The count of housing units within a geographic area that are mortagaged. Mortgage refers to all forms of debt where the property is pledged as security for repayment of the debt, including deeds of trust, trust deed, contracts to purchase, land contracts, junior mortgages, and home equity loans.
-
